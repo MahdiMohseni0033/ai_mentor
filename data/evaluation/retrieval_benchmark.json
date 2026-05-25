@@ -1,0 +1,110 @@
+[
+  {
+    "query": "How can I encourage my child to value effort and resilience over immediate grades and external validation?",
+    "expected_chunk_id": "ted_2156_chunk_001",
+    "expected_doc_id": "ted_2156",
+    "topic": "psychology",
+    "speaker": "Carol Dweck",
+    "title": "The power of believing that you can improve",
+    "notes": "LLM-paraphrased from the expected chunk."
+  },
+  {
+    "query": "How can I avoid making poor long-term decisions based on the false assumption that my current preferences will remain the same in the future?",
+    "expected_chunk_id": "ted_2012_chunk_002",
+    "expected_doc_id": "ted_2012",
+    "topic": "psychology",
+    "speaker": "Dan Gilbert",
+    "title": "The psychology of your future self",
+    "notes": "LLM-paraphrased from the expected chunk."
+  },
+  {
+    "query": "How can I determine whether an alternative treatment is genuinely helping my mental health or just providing temporary relief?",
+    "expected_chunk_id": "ted_1894_chunk_007",
+    "expected_doc_id": "ted_1894",
+    "topic": "psychology",
+    "speaker": "Andrew Solomon",
+    "title": "Depression, the secret we share",
+    "notes": "LLM-paraphrased from the expected chunk."
+  },
+  {
+    "query": "How can I overcome the fear of failure and shame that prevents me from admitting my mistakes and seeking help?",
+    "expected_chunk_id": "ted_1391_chunk_004",
+    "expected_doc_id": "ted_1391",
+    "topic": "psychology",
+    "speaker": "Brené Brown",
+    "title": "Listening to shame",
+    "notes": "LLM-paraphrased from the expected chunk."
+  },
+  {
+    "query": "Why do people who achieve their dreams often stop feeling grateful and start focusing on stress and competition instead?",
+    "expected_chunk_id": "ted_1344_chunk_004",
+    "expected_doc_id": "ted_1344",
+    "topic": "productivity",
+    "speaker": "Shawn Achor",
+    "title": "The happy secret to better work",
+    "notes": "LLM-paraphrased from the expected chunk."
+  },
+  {
+    "query": "How can I effectively start a movement if I don't feel like I have traditional leadership skills?",
+    "expected_chunk_id": "ted_814_chunk_001",
+    "expected_doc_id": "ted_814",
+    "topic": "leadership",
+    "speaker": "Derek Sivers",
+    "title": "How to start a movement",
+    "notes": "LLM-paraphrased from the expected chunk."
+  },
+  {
+    "query": "Why do I feel so defeated after failing, even when I know I can succeed?",
+    "expected_chunk_id": "ted_2193_chunk_004",
+    "expected_doc_id": "ted_2193",
+    "topic": "psychology",
+    "speaker": "Guy Winch",
+    "title": "Why we all need to practice emotional first aid",
+    "notes": "LLM-paraphrased from the expected chunk."
+  },
+  {
+    "query": "Is it possible that spending time alone is actually necessary for achieving deep insights and creativity?",
+    "expected_chunk_id": "ted_1377_chunk_005",
+    "expected_doc_id": "ted_1377",
+    "topic": "psychology",
+    "speaker": "Susan Cain",
+    "title": "The power of introverts",
+    "notes": "LLM-paraphrased from the expected chunk."
+  },
+  {
+    "query": "What is the most important factor for maintaining long-term happiness and physical health?",
+    "expected_chunk_id": "ted_2399_chunk_002",
+    "expected_doc_id": "ted_2399",
+    "topic": "purpose",
+    "speaker": "Robert Waldinger",
+    "title": "What makes a good life? Lessons from the longest study on happiness",
+    "notes": "LLM-paraphrased from the expected chunk."
+  },
+  {
+    "query": "What single trait has been shown to be the most reliable predictor of long-term success across various fields?",
+    "expected_chunk_id": "ted_1733_chunk_001",
+    "expected_doc_id": "ted_1733",
+    "topic": "career",
+    "speaker": "Angela Lee Duckworth",
+    "title": "Grit: The power of passion and perseverance",
+    "notes": "LLM-paraphrased from the expected chunk."
+  },
+  {
+    "query": "What are some effective techniques for asking better questions to get more meaningful answers during a conversation?",
+    "expected_chunk_id": "ted_2435_chunk_003",
+    "expected_doc_id": "ted_2435",
+    "topic": "communication",
+    "speaker": "Celeste Headlee",
+    "title": "10 ways to have a better conversation",
+    "notes": "LLM-paraphrased from the expected chunk."
+  },
+  {
+    "query": "How can I create an environment where my team feels secure enough to collaborate effectively rather than just protecting themselves?",
+    "expected_chunk_id": "ted_1998_chunk_003",
+    "expected_doc_id": "ted_1998",
+    "topic": "leadership",
+    "speaker": "Simon Sinek",
+    "title": "Why good leaders make you feel safe",
+    "notes": "LLM-paraphrased from the expected chunk."
+  }
+]

@@ -1,0 +1,23 @@
+# Mini AI Mentor Engine — Python dependencies
+# Tested with Python 3.13 on the AMD/ROCm cluster described in system_info.md.
+
+# Data + utilities
+pandas>=2.0
+numpy>=1.26
+requests>=2.31
+
+# Embeddings (Qwen3-Embedding-0.6B)
+sentence-transformers>=5.5
+transformers>=4.51
+
+# Vector store, demo UI, tests
+chromadb>=1.5
+streamlit>=1.57
+pytest>=8.0
+
+# Optional: only needed to (re)download the raw TED dataset via download_dataset.py
+# kagglehub>=0.3
+
+# NOTE: PyTorch is NOT pinned here. The cluster provides a ROCm build
+# (torch==2.12.0+rocm7.2). Install the torch build that matches your GPU/driver
+# separately. The chat LLM (qwen3.6:27b) is served by Ollama, not pip.

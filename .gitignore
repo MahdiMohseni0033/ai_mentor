@@ -1,0 +1,50 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.archive/
+.venv/
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+
+# --- Tooling caches ---
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# --- Local scratch / personal (not part of the deliverable) ---
+.archive/
+
+# --- Raw dataset (large; re-fetch with scripts/download_dataset.py) ---
+ted-ultimate-dataset/
+
+# --- LaTeX build artifacts ---
+report/*.aux
+report/*.log
+report/*.out
+report/*.synctex.gz
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+system_info.md
+CLAUDE.md
+agent.md
+# --- Generated heavy artifacts (regenerate from code; don't commit) ---
+# Vector index (~11 MB): rebuild with `python scripts/build_index.py`
+chroma_db/
+# Preprocessing output: rebuild with `python -m src.ingestion.pipeline`
+data/processed/
+report/
+# Kept tracked on purpose (small, hand-made / LLM-made inputs, not regenerable
+# from code alone): data/curated_talks.csv and data/evaluation/retrieval_benchmark.json
